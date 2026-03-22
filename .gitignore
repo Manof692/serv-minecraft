@@ -1,0 +1,17 @@
+config/
+defaultconfigs/
+downloads/
+kubejs/
+local/
+moonlight*/
+patchouli_books/
+profileImage/
+shaderpacks/
+tacz_backup/
+xaero/
+.curseclient
+*.json
+option.txt
+rhino.local.properties
+servers.dat
+servers.dat_old
